@@ -1,7 +1,7 @@
 # PROJECT AWARDS
 
 
-## Built By [Ian Sani](https://github.com/iansani/)
+## By [Mariam Osman]
 
 ## Description
 This is a web application that allows different developers to post their projects and peers can review the same by grading the projects in terms of userbility, design and content.
@@ -53,7 +53,7 @@ Admin should:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/iansani/Awwards
+        $ git clone
         $ cd Awards
 
 ## Running the Application
@@ -86,4 +86,4 @@ Admin should:
 
 ## License
 
-Copyright (c) 2018 iansani
+Copyright (c) 2020 Mariam Osman.
